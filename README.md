@@ -1,2 +1,2 @@
 # Contact-Information
-This repository contains my contact information such as mail-id , phone number , social media accounts etc ...
+https://github.com/bhaveshjain144/Contact-Information/tree/master
